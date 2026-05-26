@@ -16,17 +16,17 @@ ___
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
-**Siemens France - Ingénieur Solutions Building Infrastructure & Automation** · Alternance · 01/09/2023 – 28/08/2026
+**Siemens France <span class="iconify" data-icon="openmoji:flag-france"></span> - Ingénieur Solutions Building Infrastructure & Automation** · Alternance · 01/09/2023 – 28/08/2026
 - Développement et déploiement d’une solution Power Platform pour automatiser la gestion des contrats de maintenance, remplaçant les processus Excel manuels (gain de temps de 90%)
 - Développement et mise en service d'un module d'extension (EM) pour Desigo CC pour un client pharmaceutique
 - Migration et mise à disposition du parc de machines virtuelles vers VirtualBox et Hyper-V pour la Branche ATL 
 - Interventions dans le cadre de contrats et de dépannages sur des sites clients, en présentiel et à distance
 
-**Siemens Bulgarie - Ingénieur Solutions Building Infrastructure & Automation** · Stage · 28/05/2025 – 22/07/2025  
+**Siemens Bulgarie <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - Ingénieur Solutions Building Infrastructure & Automation** · Stage · 28/05/2025 – 22/07/2025  
 - Communication et présentations en anglais
 - Développement d’une application web automatisant une partie du contrôle qualité pour les migrations de projets de Gestion Technique du Bâtiment (90 % de gain de temps)
 
-**Siemens France - Technicien de Mise en Service Building Infrastructure & Automation** · Alternance · 01/09/2022 – 15/08/2023  
+**Siemens France <span class="iconify" data-icon="openmoji:flag-france"></span> - Technicien de Mise en Service Building Infrastructure & Automation** · Alternance · 01/09/2022 – 15/08/2023  
 - Développement d’un logiciel d’affichage des stocks en temps réel due à la crise Covid (95 % de gain de temps)
 - Développement d’un générateur automatisé de plannings  projets types (80 % de gain de temps) 
 - Migrations de projets de supervision industrielle de Gestion Technique du Bâtiment de Desigo Insight vers Desigo Control Center
