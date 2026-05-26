@@ -17,7 +17,7 @@ ___
 ## EXPÉRIENCES PROFESSIONNELLES
 
 **Siemens France - Ingénieur Solutions Building Infrastructure & Automation** · Alternance · 01/09/2023 – 28/08/2026
-- Développement et déploiement d'une application conteneurisée pour les gammes de maintenance
+- Développement et déploiement d’une solution Power Platform pour automatiser la gestion des contrats de maintenance, remplaçant les processus Excel manuels (gain de temps de 90%)
 - Développement et mise en service d'un module d'extension (EM) pour Desigo CC pour un client pharmaceutique
 - Migration et mise à disposition du parc de machines virtuelles vers VirtualBox et Hyper-V pour la Branche ATL 
 - Interventions dans le cadre de contrats et de dépannages sur des sites clients, en présentiel et à distance
@@ -49,9 +49,9 @@ ___
 - **Industrie :** Automatisme, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotique, ROS, RobotDK, Panorama Studio, FESTO FST
 - **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, Nod-RED, TIA Portal, LoRaWAN, WinCC OA  
 - **Systèmes & Réseaux :** Linux, Windows, VirtualBox, VMware, Hyper-V, bonnes pratiques cybersécurité  
-- **Développement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell, Win CC OA CTRL  
+- **Développement :** Python, C/C++, Java, Go, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell, Win CC OA CTRL  
 - **Électronique :** Arduino, Raspberry Pi, STM32, VHDL, Soudure, Compréhension de fiches techniques  
-- **Microsoft 365 Copilot :** Excel, Word, PowerPoint, Power BI
+- **Microsoft 365 Copilot :** Excel, Word, PowerPoint, Power Apps, Sharepoints, Power BI
 
 ## CERTIFICATIONS
 
