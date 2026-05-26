@@ -2,7 +2,7 @@
 ---
 
 # Paul Bruno
-**Available from 2nd September 2026**
+**Available starting September 2, 2026**
 
 <span class="iconify" data-icon="charm:person"></span> [0xpb.github.io](https://https://0xpb.github.io)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/0xPB](https://github.com/0xPB)
@@ -17,7 +17,7 @@ ___
 ## PROFESSIONAL EXPERIENCE
 
 **Siemens France <span class="iconify" data-icon="openmoji:flag-france"></span> - Solution Engineer Building Infrastructure & Automation** · Apprenticeship · 01/09/2023 – 28/08/2026
-- Development and deployment of a containerized application for maintenance contracts
+- Developed and deployed a Power Platform solution to automate maintenance contract workflows, replacing manual Excel processes and delivering 80% time savings.
 - Development and commissioning of an Extension Module (EM) for Desigo CC for a pharmaceutical client (85% time savings)
 - Migration and provisioning of the virtual machine fleet to VirtualBox and Hyper-V for the ATL Branch
 - On-site and remote technical support and interventions under service contracts for client sites
@@ -49,9 +49,9 @@ ___
 - **Industry :** Automation, GRAFCET, Ladder Logic, SCADA/Supervision, ModBus, BACnet, LoRaWAN, Robotics, ROS (Robot Operating System), RoboDK, Panorama Studio, FESTO FST
 - **Siemens :** Desigo CC (Control Center), Desigo Insight, Connect Box, Node-RED, TIA Portal, LoRaWAN, WinCC OA 
 - **Systems & Networks :** Linux, Windows, VirtualBox, VMware, Hyper-V, Cybersecurity best practices
-- **Developement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell, WinCC OA CTRL
+- **Developement :** Python, C/C++, Java, Go, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell, WinCC OA CTRL
 - **Electronic :** Arduino, Raspberry Pi, STM32, VHDL, Soldering, Datasheet interpretation
-- **Microsoft 365 Copilot Suite** : Excel, Word, PowerPoint, Power BI
+- **Microsoft 365 Copilot Suite** : Excel, Word, PowerPoint, Power Apps, Sharepoints, Power BI
 
 ## CERTIFICATIONS
 
